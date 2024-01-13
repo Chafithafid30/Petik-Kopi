@@ -3,13 +3,9 @@ Petik Kopi is an Android-based application specifically aimed at Taji Village, K
 
 ## Screenshots 📱 
 
-Home | Master Data | Transactions | AddProduct | QR Code
+Splash Screen | OnBoarding Screen | Signup Screen | Signin Screen | User Profile Screen | Homescreen | Coffee Detail Screen | Buying Screen | Chechkout Screen
 --- | --- | --- | --- |--- 
-![](https://github.com/Chafithafid30/KasirPraktis/blob/930fd4bae147a88343e75cb5c72fe262ca1a4618/Homepage%20Screen.png) | 
-![](https://github.com/Chafithafid30/KasirPraktis/blob/930fd4bae147a88343e75cb5c72fe262ca1a4618/Master%20Data%20Screen.png) | 
-![](https://github.com/Chafithafid30/KasirPraktis/blob/930fd4bae147a88343e75cb5c72fe262ca1a4618/Transaksi%20Screen.png) | 
-![](https://github.com/Chafithafid30/KasirPraktis/blob/930fd4bae147a88343e75cb5c72fe262ca1a4618/Adding%20Product%20Screen.png) | 
-![](https://github.com/Chafithafid30/KasirPraktis/blob/930fd4bae147a88343e75cb5c72fe262ca1a4618/QR%20Code%20Screen.png)
+![](https://github.com/Chafithafid30/Petik-Kopi/blob/master/Splash%20Screen.png) | ![](https://github.com/Chafithafid30/Petik-Kopi/blob/master/OB-3%20Screen.png) | ![](https://github.com/Chafithafid30/Petik-Kopi/blob/master/Sign-Up%20Screen.png) | ![](https://github.com/Chafithafid30/Petik-Kopi/blob/master/Sign-In%20Screen.png) | ![]() | ![](https://github.com/Chafithafid30/Petik-Kopi/blob/master/Profile.png) | ![](https://github.com/Chafithafid30/Petik-Kopi/blob/master/Home.png) | ![](https://github.com/Chafithafid30/Petik-Kopi/blob/master/Coffe%20Detail%20Screen.png) | ![](https://github.com/Chafithafid30/Petik-Kopi/blob/master/Buying%20Screen.png) | ![](https://github.com/Chafithafid30/Petik-Kopi/blob/master/Checkout%20Screen.png) | ![]
 
 ## Build With 🛠
 
@@ -37,4 +33,3 @@ Home | Master Data | Transactions | AddProduct | QR Code
 
 This app uses [***MVVM (Model View
 View-Model)***](https://developer.android.com/jetpack/docs/guide#recommended-app-arch) architecture.
-
