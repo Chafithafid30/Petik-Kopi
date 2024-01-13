@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">petik kopi</string>
+    <string name="skip_intro">SKIP INTRO</string>
+    <string name="lanjutkan">LANJUTKAN</string>
+    <string name="sign_in">Sign In</string>
+    <string name="next">NEXT</string>
+    <string name="new_release">New Release</string>
+    <string name="when">When</string>
+    <string name="obdescription1">Mengenal Lebih Dekat Dengan\nDesa Taji</string>
+    <string name="obdescription2">Tak Hanya Kopi, Masih\nBanyak Berlian di Desa Taji</string>
+    <string name="obdescription3"> Mengenal Kopi di Desa Taji\nyang memiliki khasnya </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
