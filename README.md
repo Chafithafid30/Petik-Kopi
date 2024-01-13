@@ -5,7 +5,7 @@ Petik Kopi is an Android-based application specifically aimed at Taji Village, K
 
 Splash Screen | OnBoarding Screen | Signup Screen | Signin Screen | User Profile Screen | Homescreen | Coffee Detail Screen | Buying Screen | Chechkout Screen
 --- | --- | --- | --- |--- 
-![]() | ![]() | ![]() | ![]() | ![]() | ![]() | ![]() | ![]() | ![]() | ![]() | ![]
+![](https://github.com/Chafithafid30/Petik-Kopi/blob/master/Splash%20Screen.png) | ![](https://github.com/Chafithafid30/Petik-Kopi/blob/master/On%20Boarding%20Screen.png) | ![](https://github.com/Chafithafid30/Petik-Kopi/blob/master/Signup%20Screen.png) | ![](https://github.com/Chafithafid30/Petik-Kopi/blob/master/Signin%20Screen.png) | ![](https://github.com/Chafithafid30/Petik-Kopi/blob/master/User%20Profile%20Screen.png) | ![](https://github.com/Chafithafid30/Petik-Kopi/blob/master/Homescreen.png) | ![](https://github.com/Chafithafid30/Petik-Kopi/blob/master/Coffee%20Detail%20Screen.png) | ![](https://github.com/Chafithafid30/Petik-Kopi/blob/master/Buying%20Screen.png) | ![](https://github.com/Chafithafid30/Petik-Kopi/blob/master/Checkout%20Screen.png) | ![]
 
 ## Build With 🛠
 
